@@ -30,7 +30,7 @@
 
 ### Who I Am   
 
-```javascript```
+```javascript
 const hassanImran = {
   role: "Undergraduate AI Student & Full Stack Developer",
   status: "Open to Work 🚀",
