@@ -49,6 +49,7 @@ const hassanImran = {
     otherDev: ["Basic Game Dev", "Smart Security Systems", "Basic Apps"]
   }
 };
+```
 
 Tech Stack & Tools
 Languages & AI Development
