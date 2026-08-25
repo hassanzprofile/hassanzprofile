@@ -87,8 +87,8 @@ I am an **Undergraduate AI Student & Full Stack Developer** focused on building 
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanzprofile&show_icons=true&theme=tokyonight&border_color=00f2fe&title_color=00f2fe&icon_color=38bdf8&text_color=e2e8f0&bg_color=091322" alt="Hassan's GitHub Stats" height="165" width="30%" />
-  
+<p  <img src="https://github-readme-stats.vercel.app/api?username=hassanzprofile&show_icons=true&theme=tokyonight&border_color=00f2fe&title_color=00f2fe&icon_color=38bdf8&text_color=e2e8f0&bg_color=091322" alt="Hassan's GitHub Stats" height="165" width="30%" />
+</p>  
   <!-- New Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanzprofile&layout=compact&hide_langs_below=5&theme=tokyonight&border_color=00f2fe&title_color=00f2fe&icon_color=38bdf8&text_color=e2e8f0&bg_color=091322" alt="Hassan's Top Languages" height="165" width="30%" />
   
