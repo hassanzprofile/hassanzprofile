@@ -28,7 +28,7 @@
 
 ---
 
-### 👨‍💻 Who I Am
+###  Who I Am
 
 ```javascript
 const hassanImran = {
@@ -69,24 +69,24 @@ Tools & Environments
 <img src="https://skillicons.dev/icons?i=github,vscode,docker,androidstudio,figma" />
 </p>
 🚀 Key Projects
-AI & Autonomous Agents:
+AI & Autonomous Agents
 Selvo AI Voice Assistant: Custom-tailored voice-driven assistant and automation tool.
 SnapDish AI: AI-powered food and recipe identification application.
 AI Agents Ecosystem: Dedicated AI Email Responder, AI Content Creation Agent, and AI Data Analyst.
 Custom Voice Agent & Library: Specialized niche voice processing agent with custom voice library integration.
-Full Stack & 3D Interactive Web:
+Full Stack & 3D Interactive Web
 3D Animated Portfolio: Interactive Three.js personal showcase site.
 LMS Platform: Comprehensive learning management software system.
 Cursor Reveal Custom Product Store: Dynamic e-commerce layout featuring custom interactive cursor reveal interactions.
 Virtual Restaurant Counter: Real-time restaurant ordering and management portal.
-Hardware, Security & Gaming:
+Hardware, Security & Gaming
 Face Recognition & Fingerprint Smart Security System: Multi-modal biometric access control.
 WiFi Jammer: Network testing and signal disruption security utility.
 Turbo Race Multiplayer: Real-time multiplayer arcade racing game.
 📊 GitHub Stats & Streaks
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hassanzprofile&show_icons=true&theme=radical&hide_border=false&border_color=00f2fe&title_color=00f2fe&icon_color=38bdf8&text_color=e2e8f0&bg_color=091322" alt="Hassan's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanzprofile&theme=radical&hide_border=false&border_color=00f2fe&stroke=00f2fe&background=091322&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="Hassan's GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hassanzprofile&show_icons=true&theme=tokyonight&border_color=00f2fe&title_color=00f2fe&icon_color=38bdf8&text_color=e2e8f0&bg_color=091322" alt="Hassan's GitHub Stats" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=hassanzprofile&theme=tokyonight&border=00f2fe&stroke=00f2fe&background=091322&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="Hassan's GitHub Streak" width="48%" />
 </div>
 <div align="center">
 <!-- FOOTER WAVE -->
