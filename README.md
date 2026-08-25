@@ -28,69 +28,77 @@
 
 ---
 
-### Who I Am   
+### 👨‍💻 Who I Am
 
-```javascript
-const hassanImran = {
-  role: "Undergraduate AI Student & Full Stack Developer",
-  status: "Open to Work 🚀",
-  languagesSpoken: ["English", "Urdu"],
-  codeLanguages: ["Python", "JavaScript", "TypeScript", "HTML5", "CSS3"],
-  specializations: {
-    artificialIntelligence: [
-      "Voice Agents", "AI Chatbots", "AI Email Responders",
-      "Content Creation Agents", "Data Analytics", "Selvo AI"
-    ],
-    fullStackWeb: [
-      "React", "Three.js", "Node.js", "Express",
-      "TailwindCSS", "Firebase", "Supabase", "EmailJS"
-    ],
-    databases: ["PostgreSQL", "MongoDB"],
-    otherDev: ["Basic Game Dev", "Smart Security Systems", "Basic Apps"]
-  }
-};
-```
+I am an **Undergraduate AI Student & Full Stack Developer** focused on building autonomous AI agents, voice processing systems, and interactive 3D web applications.
 
+* 🚀 **Current Status:** Open to Work & Collaborations
+* 🗣️ **Languages:** English, Urdu
+* 💡 **Core Expertise:** AI Autonomous Agents, Voice Models, 3D Web Development & Smart Security Systems
 
+---
 
-Tech Stack & Tools
-Languages & AI Development
+### 🛠️ Tech Stack & Tools
+
+**Languages & AI Development**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
-Frontend & 3D Web
+
+**Frontend & 3D Web**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,threejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,threejs,tailwind" />
 </p>
-Backend & Databases
+
+**Backend & Databases**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase" />
 </p>
-Tools & Environments
+
+**Tools & Environments**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=github,vscode,docker,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,docker,androidstudio,figma" />
 </p>
-🚀 Key Projects
-AI & Autonomous Agents
-Selvo AI Voice Assistant: Custom-tailored voice-driven assistant and automation tool.
-SnapDish AI: AI-powered food and recipe identification application.
-AI Agents Ecosystem: Dedicated AI Email Responder, AI Content Creation Agent, and AI Data Analyst.
-Custom Voice Agent & Library: Specialized niche voice processing agent with custom voice library integration.
-Full Stack & 3D Interactive Web
-3D Animated Portfolio: Interactive Three.js personal showcase site.
-LMS Platform: Comprehensive learning management software system.
-Cursor Reveal Custom Product Store: Dynamic e-commerce layout featuring custom interactive cursor reveal interactions.
-Virtual Restaurant Counter: Real-time restaurant ordering and management portal.
-Hardware, Security & Gaming
-Face Recognition & Fingerprint Smart Security System: Multi-modal biometric access control.
-WiFi Jammer: Network testing and signal disruption security utility.
-Turbo Race Multiplayer: Real-time multiplayer arcade racing game.
-📊 GitHub Stats & Streaks
+
+---
+
+### 🚀 Key Projects
+
+* **AI & Autonomous Agents**
+  * **Selvo AI Voice Assistant:** Custom-tailored voice-driven assistant and automation tool.
+  * **SnapDish AI:** AI-powered food and recipe identification application.
+  * **AI Agents Ecosystem:** Dedicated AI Email Responder, AI Content Creation Agent, and AI Data Analyst.
+  * **Custom Voice Agent & Library:** Specialized niche voice processing agent with custom voice library integration.
+
+* **Full Stack & 3D Interactive Web**
+  * **3D Animated Portfolio:** Interactive Three.js personal showcase site.
+  * **LMS Platform:** Comprehensive learning management software system.
+  * **Cursor Reveal Custom Product Store:** Dynamic e-commerce layout featuring custom interactive cursor reveal interactions.
+  * **Virtual Restaurant Counter:** Real-time restaurant ordering and management portal.
+
+* **Hardware, Security & Gaming**
+  * **Face Recognition & Fingerprint Smart Security System:** Multi-modal biometric access control.
+  * **WiFi Jammer:** Network testing and signal disruption security utility.
+  * **Turbo Race Multiplayer:** Real-time multiplayer arcade racing game.
+
+---
+
+### 📊 GitHub Stats & Streaks
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hassanzprofile&show_icons=true&theme=tokyonight&border_color=00f2fe&title_color=00f2fe&icon_color=38bdf8&text_color=e2e8f0&bg_color=091322" alt="Hassan's GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=hassanzprofile&theme=tokyonight&border=00f2fe&stroke=00f2fe&background=091322&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="Hassan's GitHub Streak" width="48%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hassanzprofile&show_icons=true&theme=tokyonight&border_color=00f2fe&title_color=00f2fe&icon_color=38bdf8&text_color=e2e8f0&bg_color=091322" alt="Hassan's GitHub Stats" height="165" width="30%" />
+  
+  <!-- New Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanzprofile&layout=compact&hide_langs_below=5&theme=tokyonight&border_color=00f2fe&title_color=00f2fe&icon_color=38bdf8&text_color=e2e8f0&bg_color=091322" alt="Hassan's Top Languages" height="165" width="30%" />
+  
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com/?user=hassanzprofile&theme=tokyonight&border=00f2fe&stroke=00f2fe&background=091322&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="Hassan's GitHub Streak" height="165" width="30%" />
 </div>
+
+<br/>
+
 <div align="center">
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f2fe,4facfe,0072ff&height=100&section=footer" width="100%" />
+  <!-- FOOTER WAVE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f2fe,4facfe,0072ff&height=100&section=footer" width="100%" />
 </div>
