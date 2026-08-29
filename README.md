@@ -57,7 +57,7 @@ I am an **Undergraduate AI Student & Full Stack Developer** focused on building 
 
 **Tools & Environments**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,n8n,zappier,make.com,vapi,vscode,docker,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=github,n8n,zapier,vapi,vscode,docker,androidstudio,figma" />
 </p>
 
 ---
