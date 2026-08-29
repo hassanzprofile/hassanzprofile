@@ -88,7 +88,10 @@ I am an **Undergraduate AI Student & Full Stack Developer** focused on building 
 <div align="center">
 
   <br/>
-
+<p align="left">
+  <img src="https://github-readme-stats-gamma-eight-68.vercel.app/api?username=hassanzprofile&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=0" height="165" />
+  <img src="https://github-readme-stats-gamma-eight-68.vercel.app/api/top-langs/?username=hassanzprofile&layout=compact&theme=radical&cache_seconds=0" height="165" />
+</p>
   <img src="https://streak-stats.demolab.com/?user=hassanzprofile&theme=tokyonight&border=00f2fe&stroke=00f2fe&background=091322&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="Hassan's GitHub Streak" height="165" />
 
 </div>
