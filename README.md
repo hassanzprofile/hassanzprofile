@@ -59,7 +59,6 @@ I am an **Undergraduate AI Student & Full Stack Developer** focused on building 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode,docker,androidstudio,figma" />
   <img src="https://img.shields.io/badge/n8n-3776AB?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/vapi-3776AB?style=for-the-badge&logo=vapi&logoColor=white" />
 </p>
 
 ---
@@ -82,6 +81,7 @@ I am an **Undergraduate AI Student & Full Stack Developer** focused on building 
   * **Face Recognition & Fingerprint Smart Security System:** Multi-modal biometric access control.
   * **WiFi Jammer:** Network testing and signal disruption security utility.
   * **Turbo Race Multiplayer:** Real-time multiplayer arcade racing game.
+  
 
 ---
 
@@ -95,6 +95,9 @@ I am an **Undergraduate AI Student & Full Stack Developer** focused on building 
   <img src="https://github-readme-stats-gamma-eight-68.vercel.app/api/top-langs/?username=hassanzprofile&layout=compact&theme=radical&cache_seconds=0" height="165" />
 </p>
   <img src="https://streak-stats.demolab.com/?user=hassanzprofile&theme=tokyonight&border=00f2fe&stroke=00f2fe&background=091322&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="Hassan's GitHub Streak" height="165" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/hassanzprofile/hamnashahiddev/main/dev.gif" width="100%" alt="Developer Coding GIF" />
+    </td>
 
 </div>
 
