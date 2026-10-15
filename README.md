@@ -17,7 +17,7 @@
   <a href="https://my-portfolio-sigma-tan-99.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-0284c7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hassan-imran-7742b5295" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0072ff?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sheikhsahsb103@gmail.com">
